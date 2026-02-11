@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-02-10 07:25:29,https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-02-11 19:31:03,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
+CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
@@ -33,6 +33,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
 庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -49,7 +50,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 南京教科,https://www.freetv.top/migu/838153729.m3u8?migutoken=68341b05540f514ec344fce1684f8a66005aec759b66a516681cab444a9ba187b5fe8f24736f20a63bce950472d823cb104a3f9b1e3d92a9aaca7c063902981bf22e9689666398fd6a3f36c311
 新沂新闻,http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
 新沂生活,http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+江苏教育,https://mgtv.ottiptv.cc/mg/628008321.m3u8?userid=5559462299&sign=237e2973500e338cee4f2774df77dd0b0b27b654316347b8ec0f1b45028b4f48070833e6c4d8339bf9a5bcde11b9c505df6ab45dd1af469810fd1a1804ef2968d3e83cdd354f28433c83d09a04afd1c6b0&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+连云港新闻综合,https://mgtv.ottiptv.cc/mg/639731715.m3u8?userid=5559462299&sign=e9f09835b85408183c78bc39fa6e64a66ca93307c22cbf2484b380cd8d2093f0f08cf451c4268c7de12071cf3d8701752bf01f4e73bd4911eca25e8fe7935b6807996637af0b1614422a9aa3df8c70fc30&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+镇江新闻综合,https://mgtv.ottiptv.cc/mg/639731783.m3u8?userid=5559462299&sign=54a78b393609cf950050beea026f868d7489fa0b3d9068bbcf05dbb8a45c802b493e4157371ff39550b19933bc4f654c1a16de24ec6cdd9c9345b414d8a33517d29936d7b57d22973a30f9b7f9e8ceb3ce&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 
 ☘️辽宁频道,#genre#
 辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
@@ -79,8 +83,9 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 陕西公共,http://ls.qingting.fm/live/1222.m3u8
 
 ☘️福建频道,#genre#
-三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
+三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
@@ -112,8 +117,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 山东生活,http://ls.qingting.fm/live/60260.m3u8
 
 ☘️山西频道,#genre#
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 武乡新闻综合,http://uzoiczhh.live.sxmty.com/live/hls/0d41f1480c4042d49927858f01fde707/53130407737b417b9a6259b57246bae3.m3u8?zshanxd
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
+长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 黄山新闻综合,http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd
@@ -157,9 +164,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
-靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
-靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
-靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🎬电影频道,#genre#
 CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
@@ -167,8 +171,9 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 天映经典,https://o11.163189.xyz/stream/live/ccm/
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
+东森洋片,http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40P1BOa5U.flv
 
 🎥咪咕直播,#genre#
 
@@ -180,6 +185,7 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 🪁动画频道,#genre#
 七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
+中华小当家,https://live.metshop.top/huya/11342413
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -188,5 +194,4 @@ CHC动作电影,http://eastscreen.tv/ooooo.php?id=chcdz
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-天龙八部,https://live.metshop.top/huya/23903123
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
